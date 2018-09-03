@@ -1,0 +1,3 @@
+[submodule "ext/DifferenceKit"]
+	path = ext/DifferenceKit
+	url = https://github.com/ra1028/DifferenceKit.git

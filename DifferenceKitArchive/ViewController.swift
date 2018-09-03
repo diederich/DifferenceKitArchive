@@ -3,6 +3,7 @@
 //
 
 import UIKit
+import DifferenceKit
 
 class ViewController: UIViewController {
 
